@@ -9,11 +9,13 @@ token is in the file
 api for linkedin is used 
 update the platform in the excel sheet where you want to post 
 
-DEPENDANCIES
+DEPENDANCIES :   
 pip install facebook-sdk 
 pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 pip install linkedin-api
 
+
+if you're unable to install dependancies use the google drive link to get them
 
 MADE BY : 
 SHIVAM ARORA -500094155 - 1100avi@gmail.com
