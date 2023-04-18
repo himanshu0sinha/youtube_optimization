@@ -8,3 +8,9 @@ add your linkedin username and password where you want to post
 token is in the file 
 api for linkedin is used 
 update the platform in the excel sheet where you want to post 
+
+
+MADE BY : 
+SHIVAM ARORA
+PRANAY MAYAL
+HIMANSHU HEMANT
