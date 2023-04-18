@@ -11,6 +11,7 @@ update the platform in the excel sheet where you want to post
 
 
 MADE BY : 
-SHIVAM ARORA
-PRANAY MAYAL
-HIMANSHU HEMANT
+SHIVAM ARORA -500094155 - 1100avi@gmail.com
+PRANAY MAYAL - 500094093
+HIMANSHU HEMANT - 500091727
+
